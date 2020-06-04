@@ -19,7 +19,7 @@ public class Fibonacci
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the no. of terms : ");
 		int terms = sc.nextInt();
-		
+		sc.close();
 		Fibonacci fb = new Fibonacci();
 		fb.display(terms);
 	}
