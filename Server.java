@@ -18,7 +18,7 @@ public class Server implements Runnable {
         {
             while(true)
             {
-                for (int i = 0; i<a.size() ; i++) 
+                for (int i = 0; i < a.size() ; i++) 
                 {
                     InputStream in = a.get(i).getInputStream();
                     BufferedReader b = new BufferedReader(new InputStreamReader(in));
