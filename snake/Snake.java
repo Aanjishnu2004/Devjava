@@ -14,7 +14,7 @@ public class Snake extends GEngine
     Collision Bounds ;
     static int s = 15;
     int vx = 0;
-    int vy = 1;
+    int vy = 0;
     KeyState key ;
     boolean loop = true;
     Snake()
@@ -171,7 +171,7 @@ public class Snake extends GEngine
                 add();
             }
 
-            if(e.getKeyCode() == KeyEvent.VK_ESCAPE)
+            if(e.getKeyCode() == KeyEvent.VK_ENTER)
             {
                 d.kill();
                 //JOptionPane.showMessageDialog(null,"THANKS FOR PLAYING!!","",JOptionPane.INFORMATION_MESSAGE);
