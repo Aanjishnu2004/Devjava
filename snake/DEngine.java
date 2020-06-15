@@ -2,7 +2,6 @@ import javax.swing.JFrame;
 import java.awt.Toolkit;
 import javax.swing.JComponent;
 import java.awt.Color;
-
 public class DEngine
 {
     int sh , sw ;
@@ -13,8 +12,9 @@ public class DEngine
     DEngine()
     {
         sh = sw = 700 ;
-        j = new JFrame("...");
+        j = new JFrame("ClassicSnake");
         Toolkit t = Toolkit.getDefaultToolkit();
+        j.setIconImage(t.getImage(getClass().getResource("icon.png")));
         sch = (int)t.getScreenSize().getHeight();
         scw = (int)t.getScreenSize().getWidth();
     }
