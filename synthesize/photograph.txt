@@ -1,0 +1,15 @@
+^ ^ ^ ^
+S R G S R S G R 
+R G M R G R M G
+G M P G M G P M
+M P D M P M D P
+P D N P D P N D
+D N +S D N D +S N
+N +S +R N +S N +R +S
++S N D +S N D +S N
+N D P N D P N D
+D P M D P M D P
+P M G P M G P M
+M G R M G R M G
+G R S G R S G R
+R S -N R S -N R S 

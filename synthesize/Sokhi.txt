@@ -1,0 +1,38 @@
+^ ^ ^ ^ 
+G M P P +S  +S +S N D P ^ ^ P [ D ] 
+M P D P M P M G ^ ^ ^ ^
+S S S S -N S R G M P M P
+D D N D P [ D ] M P ^ ^ P [ D ]
+M D P M G R P ^ ^ ^ S S 
+S R G R S -N S ^ ^ ^ P P
+P S S S -N S R -G ^ M P ^
+D D N D P -D M -P -M -G ^ -M
+R P M P P P D P M G G ( G R )
+S R -G R S -N S ^ ^ ^ ^ ^
+P P ^ N N N  +S +S +S +S +S ^
++S +S +S +R +S ^ N N D P N ^
++S +S ^ +S +S ^ P P ^ P P D
+N- +S +S N- N- D P D P M G ^
+G G M P M ^ G G ^ -R S S
+S P P P P ^  P P P P ^ D
+N- +S +S N- N- D P [ D ] P M G ^
+G G G G G ^ G G M P M ^
+G G M P M ^ G G G R S ^
+P ^ P N N N +S +S +S ( +S N ) +S ^
++S +S +S + R +S +S N N ( N P ) ^ ^ 
++S +S D N- N- D P P ^  P P D
+N- +S +S N- N- ( N- D ) P ( P D ) P M G ^
+S S P P P ^ P P P P P D
+N- +S +S N- N- D P ( P D P ) ( M P ) M G ^
+G G G G G M P M P G ^ ^
+G G M P M ^ G G R S ^ ^ 
+P P P N N N +S +S +S N +S ^
++S ^ N +R +S ^ N N D P N ^
++S ^ +S ^ +S ^ P P P P P D
+N- +S +S N- N- D P D P M G
+G M P P +S  +S +S N D P ^ ^ P [ D ]
+M P D P M P M G ^ ^ ^ ^
+S S S S -N S R G M P M P
+D D N D P [ D ] M P ^ ^ P [ D ]
+M D P M G R P ^ ^ ^ S S 
+S R G R S -N S
